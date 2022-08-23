@@ -1,0 +1,11 @@
+{
+    "name": "bers/hexlet-git",
+    "description": "Learning in Hexlet",
+    "authors": [
+        {
+            "name": "Андрей Апанасенко",
+            "email": "aw_apanasenko@mail.ru"
+        }
+    ],
+    "require": {}
+}
