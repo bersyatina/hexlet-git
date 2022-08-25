@@ -1,1 +1,2 @@
-<?php echo "Hello, Hexlet!";
+<?php
+echo "Hello, Hexlet!";
