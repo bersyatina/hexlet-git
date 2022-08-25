@@ -7,5 +7,10 @@
             "email": "aw_apanasenko@mail.ru"
         }
     ],
+    "autoload": {
+        "files": [
+            "src/Runner.php"
+        ]
+    },
     "require": {}
 }
